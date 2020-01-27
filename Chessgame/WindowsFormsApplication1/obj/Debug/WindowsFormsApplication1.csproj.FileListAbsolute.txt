@@ -1,0 +1,24 @@
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Chess.Form1.resources
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\C#\CHESSWORKING\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Burak\Desktop\C#\CHESSWORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\C#\CHESSWORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Burak\Desktop\C#\WindowsFormApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Burak\Desktop\C#\WindowsFormApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Burak\Desktop\C#\WindowsFormApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\Chess.Form1.resources
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\burak\Desktop\C#\Chess WORKING\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
